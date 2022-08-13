@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/memory-card/static/css/main.468f43e1.css",
+    "main.js": "/memory-card/static/js/main.26eaa8c6.js",
+    "static/media/db.png": "/memory-card/static/media/db.6b34eb028ad7a0e42582.png",
+    "static/media/gunlance.jpg": "/memory-card/static/media/gunlance.0ed7bebcab8ad54dd744.jpg",
+    "static/media/chargeblade.jpg": "/memory-card/static/media/chargeblade.9c97900361c64e594dcd.jpg",
+    "static/media/bow.png": "/memory-card/static/media/bow.533afa813d4705928eff.png",
+    "static/media/ig.png": "/memory-card/static/media/ig.d698cab0610e47d9f8e8.png",
+    "static/media/HH.png": "/memory-card/static/media/HH.bfa2069493bf44623007.png",
+    "static/media/hbg.png": "/memory-card/static/media/hbg.0d78d951324b46459c1e.png",
+    "static/media/GS.png": "/memory-card/static/media/GS.c283fcc0b176b609be5a.png",
+    "index.html": "/memory-card/index.html",
+    "main.468f43e1.css.map": "/memory-card/static/css/main.468f43e1.css.map",
+    "main.26eaa8c6.js.map": "/memory-card/static/js/main.26eaa8c6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.468f43e1.css",
+    "static/js/main.26eaa8c6.js"
+  ]
+}
